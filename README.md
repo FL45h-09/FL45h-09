@@ -10,12 +10,23 @@
 </p>
 
 ---
+## 📚 Table of Contents
 
-## 👨‍💻 About Me
+- [About Me](#about-me)
+- [Fun Facts & Hobbies](#fun-facts--hobbies)
+- [Tech Stack](#tech-stack)
+- [Connect with Me](#connect-with-me)
+- [GitHub Stats](#github-stats)
+- [Currently Working On](#currently-working-on)
+- [Bonus](#bonus)
+
+---
+
+## About Me
 
 Hi, I’m **Vishal**—a passionate Full Stack Developer with a sharp eye for UI and a love for solving real-world problems with clean, scalable code.
 
-### 🧠 I specialize in:
+### I specialize in:
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Next.js  
 - **Backend**: Node.js, Express, PHP  
 - **Databases**: MongoDB, MySQL/SQL  
@@ -26,7 +37,7 @@ Currently building ***Digitized Kosmos***, a creative tech brand exploring digit
 
 ---
 
-## 🎯 Fun Facts & Hobbies
+## Fun Facts & Hobbies
 - 🧳 Travel junkie with a 19K+ follower Insta page  
 - 🎬 Can talk for *hours* about **sci-fi** & **time travel paradoxes** (yes, I’ve seen *Tenet* thrice)  
 - ☕ Not a morning person, but I code like a wizard after espresso no. 2  
@@ -35,7 +46,7 @@ Currently building ***Digitized Kosmos***, a creative tech brand exploring digit
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,php,git,linux" />
@@ -43,7 +54,7 @@ Currently building ***Digitized Kosmos***, a creative tech brand exploring digit
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-ravanank/" target="_blank">
@@ -59,7 +70,7 @@ Currently building ***Digitized Kosmos***, a creative tech brand exploring digit
 
 ---
 
-## ⚡ GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FL45h-09&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
@@ -69,14 +80,14 @@ Currently building ***Digitized Kosmos***, a creative tech brand exploring digit
 
 ---
 
-## 🧠 Currently Working On
+## Currently Working On
 - ✨ Launching Digitized Kosmos [Your Digital Space](https://digitizedkosmos.com)  
 - 🛠️ Open Source collabs that *don’t feel like homework*  
 - 💡 Merging creativity, Hardwork, and performance web dev  
 
 ---
 
-### 🧩 Bonus
+### Bonus
 
 > *“Great UI is like a great joke — if you have to explain it, it’s not that good.”*
 
