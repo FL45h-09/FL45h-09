@@ -81,9 +81,10 @@ Currently building ***Digitized Kosmos***, a creative tech brand exploring digit
 ---
 
 ## Currently Working On
+- 🛠️ Open Source collabs that *don’t feel like homework* [Online Space](https://github.com/FL45h-09/online-space)
+- 💡 Merging creativity, Hardwork, and performance web dev [UI Library](https://github.com/FL45h-09/react-next-components)
+- ⚙️ Slick SVG Icons [Icons Library](https://github.com/FL45h-09/slick-svg-icons)
 - ✨ Launching Digitized Kosmos [Your Digital Space](https://digitizedkosmos.com)  
-- 🛠️ Open Source collabs that *don’t feel like homework*  
-- 💡 Merging creativity, Hardwork, and performance web dev  
 
 ---
 
