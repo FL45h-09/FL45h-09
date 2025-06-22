@@ -60,11 +60,25 @@ Currently building ***Digitized Kosmos***, a creative tech brand exploring digit
   <a href="https://www.linkedin.com/in/vishal-ravanank/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
+</p>
+<p align="center">
   <a href="https://www.instagram.com/holatravellers" target="_blank">
-    <img src="https://img.shields.io/badge/-Travel%20Insta-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hola%20Travellers-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/vishal_ravanank" target="_blank">
+    <img src="https://img.shields.io/badge/-Vishal%20Ravanank-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+<p align="center">
   <a href="mailto:vishal.ravanank@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://digitizedkosmos.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Digitized%20Kosmos-1e1e1e?style=flat-square&logo=codepen&logoColor=white" />
   </a>
 </p>
 
@@ -75,7 +89,7 @@ Currently building ***Digitized Kosmos***, a creative tech brand exploring digit
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FL45h-09&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
- <a href="https://streak-stats.demolab.com/demo/preview.php?user=FL45h-09&theme=tokyonight&cache_seconds=86400"><img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></a>
+ <a href="https://streak-stats.demolab.com/demo/preview.php?user=FL45h-09&theme=tokyonight&cache_seconds=86400"><img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Streak" /></a>
 </p>
 
 ---
