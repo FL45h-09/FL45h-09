@@ -95,10 +95,10 @@ Currently building ***Digitized Kosmos***, a creative tech brand exploring digit
 ---
 
 ## Currently Working On
-- 🛠️ Open Source collabs that *don’t feel like homework* [Online Space](https://github.com/FL45h-09/online-space){:target="_blank" rel="noopener"}
-- 💡 Merging creativity, Hardwork, and performance web dev [UI Library](https://github.com/FL45h-09/uibrix){:target="_blank" rel="noopener"}
-- ⚙️ Slick SVG Icons [Icons Library](https://github.com/FL45h-09/slick-svg-icons){:target="_blank" rel="noopener"}
-- ✨ Launching Digitized Kosmos [Your Digital Space](https://digitizedkosmos.com){:target="_blank" rel="noopener"}
+- 🛠️ Open Source collabs that *don’t feel like homework* [Online Space](https://github.com/FL45h-09/online-space)
+- 💡 Merging creativity, Hardwork, and performance web dev [UI Library](https://github.com/FL45h-09/uibrix)
+- ⚙️ Slick SVG Icons [Icons Library](https://github.com/FL45h-09/slick-svg-icons)
+- ✨ Launching Digitized Kosmos [Your Digital Space](https://digitizedkosmos.com)
 
 ---
 
